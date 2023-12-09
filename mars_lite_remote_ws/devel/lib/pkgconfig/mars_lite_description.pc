@@ -1,0 +1,8 @@
+prefix=/home/rexlin/mars_lite_remote_ws/devel
+
+Name: mars_lite_description
+Description: Description of mars_lite_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

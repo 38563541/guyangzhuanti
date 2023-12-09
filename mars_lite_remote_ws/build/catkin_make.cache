@@ -1,0 +1,2 @@
+mars_lite_description:robotiq/robotiq_2f_model:robotiq/robotiq_2f_robot:rviz_panel:tm_description
+-DCATKIN_DEVEL_PREFIX=/home/rexlin/mars_lite_remote_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rexlin/mars_lite_remote_ws/install -G Unix Makefiles

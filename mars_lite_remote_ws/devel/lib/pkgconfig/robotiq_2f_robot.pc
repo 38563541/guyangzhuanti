@@ -1,0 +1,8 @@
+prefix=/home/rexlin/mars_lite_remote_ws/devel
+
+Name: robotiq_2f_robot
+Description: Description of robotiq_2f_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
